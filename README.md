@@ -1,4 +1,4 @@
-# KPMG-Data-Analytics-Virtual-Internship
+# KPMG Data Analytics Virtual Internship
 
 The [KPMG Data Analytics Virtual Internship](https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship?ref=p6zCfyAog39HPazpa) is designed to help us gain a practical insight into the work done at KPMG and it is an opportunity for us to build career skills and experience.
 
@@ -33,7 +33,7 @@ Developed a dashboard using Tableau that displays the data summary and results o
 * What do you propose should be Sprocket Central Pty Ltd ’s marketing and growth strategy?
 * What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?
 
-## [Demographics Dashboard](https://public.tableau.com/app/profile/carolina.sibrian/viz/KPMG_CustomerDemographicDashboard/Demographic)
-## [Transactions Dashboard](https://public.tableau.com/app/profile/carolina.sibrian/viz/KPMG_Transactions/Transactions)
+### [Demographics Dashboard](https://public.tableau.com/app/profile/carolina.sibrian/viz/KPMG_CustomerDemographicDashboard/Demographic)
+### [Transactions Dashboard](https://public.tableau.com/app/profile/carolina.sibrian/viz/KPMG_Transactions/Transactions)
 
-## Completion Certificate: [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_p6zCfyAog39HPazpa_1685558883602_completion_certificate.pdf)
+### [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_p6zCfyAog39HPazpa_1685558883602_completion_certificate.pdf)
