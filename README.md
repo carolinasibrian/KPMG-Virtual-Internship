@@ -36,4 +36,4 @@ Developed a dashboard using Tableau that displays the data summary and results o
 ## [Demographics Dashboard](https://public.tableau.com/app/profile/carolina.sibrian/viz/KPMG_CustomerDemographicDashboard/Demographic)
 ## [Transactions Dashboard](https://public.tableau.com/app/profile/carolina.sibrian/viz/KPMG_Transactions/Transactions)
 
-## Completion Certificate link: [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_p6zCfyAog39HPazpa_1685558883602_completion_certificate.pdf)]
+## Completion Certificate: [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_p6zCfyAog39HPazpa_1685558883602_completion_certificate.pdf)
